@@ -1,13 +1,13 @@
 /* p { color: blue; } */
 
-body {
+body {s
     background-color: #bdf6e3; 
-    font-family: 'Lora', serif;
+    font-family: 'Lora', sans-serif;
     color: #440E03;
 }
 
 h1, h2 {
-    color: #f78156; 
+    color: #441504; 
 }
 
 .description {
