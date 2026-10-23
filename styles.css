@@ -1,0 +1,26 @@
+/* p { color: blue; } */
+
+body {
+    background-color: #bdf6e3; 
+    font-family: 'Lora', serif;
+    color: #338343;
+}
+
+h1, h2 {
+    color: #b35430; 
+}
+
+.description {
+    width: 602px;
+}
+
+.left {
+    width: 603px;
+    float: left;
+}
+
+.right {
+    width: 604px;
+    float: left;
+    margin-left: 40px;
+}
