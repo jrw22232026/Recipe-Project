@@ -11,16 +11,16 @@ h1, h2 {
 }
 
 .description {
-    width: 602px;
+    width: 600px;
 }
 
 .left {
-    width: 603px;
+    width: 600px;
     float: left;
 }
 
 .right {
-    width: 604px;
+    width: 600px;
     float: left;
     margin-left: 40px;
 }
