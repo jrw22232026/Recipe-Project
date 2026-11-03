@@ -1,26 +1,35 @@
 /* p { color: blue; } */
 
+
+<head> 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+JS
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+</head>
+
+
 body {
-    background-color: #bdf6e3; 
-    font-family: 'Lora', serif;
-    color: #338343;
+    background-color: #d67b84; 
+    font-family: Garamond, 'Courier New', sans-serif;
+    color: #330a02;
 }
 
 h1, h2 {
-    color: #b35430; 
+    color: #822605; 
 }
 
 .description {
-    width: 602px;
+    width: 600px;
 }
 
 .left {
-    width: 603px;
+    width: 600px;
     float: left;
 }
 
 .right {
-    width: 604px;
+    width: 600px;
     float: left;
-    margin-left: 40px;
+    margin-left: 30px;
 }
