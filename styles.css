@@ -3,7 +3,7 @@
 /* checked css code in W3 validation checker and got a "parse" error */
 /* Fix parse error later */
 /* commits should be in present tense (example: "add boostrap css"). fix this later if I have time! */
-
+/* fix margin issue */
 
 body {
     background-color: #d67b84; 
@@ -23,7 +23,7 @@ h1, h2 {
 
 .left {
     width: 600px;
-    float: left;
+    float: center;
 }
 
 .right {
