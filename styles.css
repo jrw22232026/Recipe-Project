@@ -2,6 +2,7 @@
  align the margins in a better way, embed a playlist of fall music to my recipe page that people can listen to while they bake? Add nutritional info? Add a responsive elment that enables users to double or half the recipe proportions, add a slide show with pictures of the recipe and different elements? */
 /* checked css code in W3 validation checker and got a "parse" error */
 /* Fix parse error later */
+/* commits should be in present tense (example: "add boostrap css"). fix this later if I have time! */
 
 
 body {
@@ -13,6 +14,7 @@ body {
 
 h1, h2 {
     color: #822605; 
+    margin-left: 20px;
 }
 
 .description {
