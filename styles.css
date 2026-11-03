@@ -1,13 +1,14 @@
 /* p { color: blue; } styling plan: check for grammatical/spelling errors on my page, italicize the description,
  align the margins in a better way, embed a playlist of fall music to my recipe page that people can listen to while they bake? Add nutritional info? Add a responsive elment that enables users to double or half the recipe proportions, add a slide show with pictures of the recipe and different elements? */
 /* checked css code in W3 validation checker and got a "parse" error */
-
+/* Fix parse error later */
 
 
 body {
     background-color: #d67b84; 
     font-family: Garamond, 'Courier New', sans-serif;
     color: #330a02;
+    margin-left: 20px;
 }
 
 h1, h2 {
