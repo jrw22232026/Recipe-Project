@@ -6,3 +6,8 @@ newListItem.textContent = 'Jalapenos';
 
 // And finally, let's add that list item as a child of the ul.
 document.querySelector('ul').appendChild(newListItem);
+
+const myDiv = document.getElementById("myDiv")
+
+let checkbox = document.createElement("input")
+
