@@ -44,4 +44,7 @@ myDiv.appendChild(label);
 
 
 
+checked{
+    text-decoration: line-through; 
+}
 /* placeholder note: add a class name to any element with the following syntax: yourelementname.className = "checked"; */
