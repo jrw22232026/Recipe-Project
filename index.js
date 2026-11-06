@@ -41,3 +41,7 @@ label.appendChild(
 // and label to div
 myDiv.appendChild(checkbox);
 myDiv.appendChild(label);
+
+
+
+/* placeholder note: add a class name to any element with the following syntax: yourelementname.className = "checked"; */
