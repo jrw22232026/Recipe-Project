@@ -4,16 +4,17 @@ body {
     background-color: #c57f86; 
     font-family: Garamond, 'Times New Roman', sans-serif;
     color: #5c1507;
-   
+    margin-left: 40px;
 }
 
 h1, h2 {
     color: #822605; 
-
+     margin-left: 40px;
 }
 
 .description {
     width: 600px;
+     margin-left: 40px;
 }
 
 .left {
@@ -24,5 +25,5 @@ h1, h2 {
 .right {
     width: 600px;
     float: left;
-    margin-left: 30px;
+    margin-left: 40px;
 }
