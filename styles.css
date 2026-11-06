@@ -10,11 +10,13 @@ body {
 h1, h2 {
     color: #822605; 
      margin-left: 40px;
+     font-style: bold;
 }
 
 .description {
     width: 600px;
      margin-left: 40px;
+     font-style: italic;
 }
 
 .left {
