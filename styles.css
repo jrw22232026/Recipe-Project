@@ -22,6 +22,7 @@ h1, h2 {
 
 .description {
     width: 600px;
+     margin-left: 40px;
      font-style: italic;
      font-size: 20px;
 }
@@ -42,7 +43,6 @@ h1, h2 {
 .right {
     width: 600px;
     float: left;
-    margin-left: 40px;
 }
 
 .checked {
