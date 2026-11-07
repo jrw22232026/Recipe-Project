@@ -19,12 +19,14 @@ h1, h2 {
      margin-left: 40px;
      font-style: italic;
      font-size: 20px;
+}
 
-
-     @media (hover: hover) {
-  .description:hover {
-    color: #be0a4c;
-    transition-duration: 0.5s;
+  @media (hover: hover) {
+    .description:hover {
+        color: #be0a4c;
+        transition-duration: 0.4s;
+    }
+}
 }
 
 .left {
