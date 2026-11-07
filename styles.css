@@ -18,7 +18,13 @@ h1, h2 {
     width: 600px;
      margin-left: 40px;
      font-style: italic;
-     font-size: 20;
+     font-size: 20px;
+
+
+     @media (hover: hover) {
+  .description:hover {
+    color: #be0a4c;
+    transition-duration: 0.5s;
 }
 
 .left {
@@ -31,3 +37,9 @@ h1, h2 {
     float: left;
     margin-left: 40px;
 }
+
+.checked {
+    text-decoration: line-through; 
+}
+
+
